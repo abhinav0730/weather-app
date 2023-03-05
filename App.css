@@ -1,0 +1,34 @@
+.weatherBg {
+  background: url("./images/pexels-kehn-hermano-3729213.jpg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+ 
+    background-size: cover;
+background-repeat: no-repeat;
+}
+.heading {
+  color: whitesmoke;
+  font-weight: 700;
+}
+.weatherResultBox {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+
+}
+.weathericon {
+  width: 100px;
+  height: 100px;
+
+}
+.weathercity {
+  font-size: 55px;
+  font-weight: 700;
+}
+.weathertemp {
+  font-size: 55px;
+    font-weight: 700;
+}
